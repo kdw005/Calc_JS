@@ -1,0 +1,69 @@
+body{
+	background-color: #008;
+	
+}
+header {
+	
+	background-image: linear-gradient(#040 ,yellow,#043);
+	width: 900px;
+	height: 300px;
+	border: 4px double white;
+	margin: 0 auto;
+}
+header img{
+	position: relative;
+	margin-left: 0;
+	margin-top: -130px;
+}
+header h1{
+	font-size: 3em;
+	text-align: center;
+		color: white; 
+		margin-top: 60px;
+		text-shadow: 2px 2px 2px blue;
+}
+header h2{
+		text-align: center;
+	color: yellowgreen;
+	text-shadow: 2px 2px 2px blue;
+	
+}
+#bol{
+	color:green;
+	font: normal 20pt Arial; 
+	width: 250px;
+	height: 250px;
+	line-height:250px;
+	border: 2px solid black;
+	border-radius: 150px;
+	background-image: radial-gradient(yellow, red);
+	text-align:center;
+	
+}
+#section{
+	border: 4px double #fff;
+	border-radius: 30px;
+	margin:0 auto;
+	width: 250px;
+	height: 400px;
+	text-align: center;
+	padding-top:40px;
+	background-color: #002;
+}
+#section button{
+	
+	width:60px;
+	height:60px;
+	font: bold 2em arial;
+	border-radius: 10px;
+}
+#tb1{
+	/*margin-top: 30px;*/
+	margin-bottom: 30px;
+	text-align: right;
+	font: bold 1.5em arial;
+	width: 240px;
+	padding: 5px 0;
+	border-radius: 10px;
+	
+}
